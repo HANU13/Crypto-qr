@@ -1,0 +1,32 @@
+.container {
+  text-align: center;
+  margin-top: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.card {
+  display: inline-block;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.15);
+  background: #fff;
+  min-width: 250px;
+}
+
+.address {
+  font-size: 14px;
+  word-break: break-all;
+  margin: 10px 0;
+}
+
+.balance {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+}
